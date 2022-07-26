@@ -14,11 +14,11 @@ For install and run the project, you should make the following steps:
 3. Go to the project on your PC
 4. Open the file for editing: `Autodoc > src > main > resources > application.properties`
 5. Change the fields values in the .properties file for your own: 
-    - platformName
-    - platformVersion
-    - deviceName
-    - udid, 
-    - url
+    + platformName
+    + platformVersion
+    + deviceName
+    + udid
+    + url
 6. Launch the Appium server on your PC
 7. Open CMD on your PC: `Win+R > cmd` (for Windows)
 8. Go to the root of the downloaded project in CMD: `cd <path to project>`
